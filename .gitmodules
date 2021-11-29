@@ -1,0 +1,3 @@
+[submodule "lib/Arduino_MFRC522v2"]
+	path = lib/Arduino_MFRC522v2
+	url = https://github.com/OSSLibraries/Arduino_MFRC522v2
